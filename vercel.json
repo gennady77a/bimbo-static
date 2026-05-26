@@ -1,6 +1,14 @@
 {
   "rewrites": [
     {
+      "source": "/api/maintenance",
+      "destination": "/api/maintenance"
+    },
+    {
+      "source": "/bg.jpg",
+      "destination": "/bg.jpg"
+    },
+    {
       "source": "/(.*)",
       "destination": "/api/maintenance"
     }
