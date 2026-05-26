@@ -9,6 +9,10 @@
       "destination": "/bg.jpg"
     },
     {
+      "source": "/favicon.png",
+      "destination": "/favicon.png"
+    },
+    {
       "source": "/(.*)",
       "destination": "/api/maintenance"
     }

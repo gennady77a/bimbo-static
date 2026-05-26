@@ -7,6 +7,7 @@ export default function handler(request, response) {
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Bimbo.by — Ведутся технические работы</title>
+        <link rel="icon" href="/favicon.png" type="image/png">
         <style>
             * { margin: 0; padding: 0; box-sizing: border-box; }
             
